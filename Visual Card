@@ -1,0 +1,88 @@
+{
+  "cards": [
+    {
+      "brand": "Visa",
+      "name": "Gary Kelly",
+      "card_number": "4293716466336",
+      "cvv": "363",
+      "expiry": "06/32"
+    },
+    {
+      "brand": "Visa",
+      "name": "Daniel Lopez",
+      "card_number": "4955284962975",
+      "cvv": "315",
+      "expiry": "10/27"
+    },
+    {
+      "brand": "Visa",
+      "name": "Stephanie Hughes",
+      "card_number": "4510122605382332750",
+      "cvv": "847",
+      "expiry": "09/28"
+    },
+    {
+      "brand": "Visa",
+      "name": "Sharon Hill",
+      "card_number": "4557385117117021008",
+      "cvv": "783",
+      "expiry": "07/28"
+    },
+    {
+      "brand": "Visa",
+      "name": "Jonathan Brooks",
+      "card_number": "4144581733672049801",
+      "cvv": "937",
+      "expiry": "11/32"
+    }
+  ],
+  "tool": "BASIC CREDIT CARD GENERATOR",
+  "generatedAt": "2026-10-07",
+  "generatedAtIso": "2026-10-07T07:28:29.674Z",
+  "usefulTools": [
+    {
+      "order": 1,
+      "name": "Credit Card Generator",
+      "url": "https://www.vccgenerator.org/"
+    },
+    {
+      "order": 2,
+      "name": "BIN-IP Fraud Detector",
+      "url": "https://www.vccgenerator.org/bin-ip-fraud-detector/"
+    },
+    {
+      "order": 3,
+      "name": "Credit Card Validator",
+      "url": "https://www.vccgenerator.org/credit-card-validator/"
+    },
+    {
+      "order": 4,
+      "name": "BIN Checker",
+      "url": "https://www.vccgenerator.org/bin-checker/"
+    },
+    {
+      "order": 5,
+      "name": "BIN Search / Finder",
+      "url": "https://www.vccgenerator.org/bin-search/"
+    },
+    {
+      "order": 6,
+      "name": "SSL Certificate Checker",
+      "url": "https://www.vccgenerator.org/ssl-certificate-checker/"
+    },
+    {
+      "order": 7,
+      "name": "IP Address Lookup",
+      "url": "https://www.vccgenerator.org/ip-address-lookup/"
+    },
+    {
+      "order": 8,
+      "name": "HTTP Header Checker",
+      "url": "https://www.vccgenerator.org/http-header-checker/"
+    }
+  ],
+  "disclaimer": [
+    "Every generated number is test data. The PAN is completed algorithmically. Name, expiry, and CVV are random values for client-side validation only and are not tied to any active financial account. No generated number has an active account, balance, or credit line behind it. Issuer labels shown in Advanced and BIN modes come from our BIN reference database and describe the prefix range only.",
+    "These numbers possess zero financial backing and cannot authorize transactions on any production payment network. Use this data exclusively for sandbox testing, QA fixtures, security training, and academic instruction."
+  ]
+}
